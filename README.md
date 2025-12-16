@@ -6,6 +6,8 @@ A web-based lead generation tool that identifies, enriches, and ranks potential 
 
 This application helps business developers find qualified leads by analyzing recent scientific publications. It searches PubMed for researchers working on specific topics (e.g., drug-induced liver injury, 3D cell culture, hepatotoxicity) and ranks them based on their propensity to purchase related products or services.
 
+## Live URL - [Hugging Face](https://darkanon1mous-pubmed-lead-generator.hf.space)
+
 ## ✨ Features
 
 - **🔍 Smart Search**: Search PubMed using custom keywords and date ranges
